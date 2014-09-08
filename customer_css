@@ -1,0 +1,31 @@
+
+/** Landingpage knowinggod **/
+
+/* change all Page ID */
+.page-id-4868 #site {
+     /* Adjust the URL to the Picture*/
+    background-image: url(/wp-content/uploads/2013/07/Matterhorn-1024x576.jpg);
+    background-size: cover;
+    background-position: 50% 50%;
+
+}
+
+/* change all Page ID */
+.page-id-4868 #page-main {
+    /* Adjust the URL to the Picture*/
+    background: url(/wp-content/uploads/2013/07/transparent20.png) repeat scroll 0 0 transparent;
+    background-color: none;
+    border: none;
+    color: #000;
+    min-height: 750px;
+}
+/* change all Page ID */
+.page-id-4868 h1 { font-size: 3em }
+/* change all Page ID */
+.page-id-4868 .red_two {
+    background: 0 repeat scroll 0 0 transparent;
+    border: 1px solid #B20000;
+    box-shadow: none;
+    color: #F7F7F7;
+    text-shadow: 0 1px 0 rgba(0,0,0,0.5);
+}
